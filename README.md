@@ -38,7 +38,7 @@ experiments (~30–45 min on a T4) and displays the results and figures at the e
 
 ```bash
 git clone https://github.com/mo7morad/tweet-emotion-classification.git
-cd tweet-emotion-classification
+cd UII-NLP-Tweet-Emotion-Classification-Fine-tuning-DistilBERT-vs-BERT
 bash run_experiments.sh
 ```
 
