@@ -37,7 +37,7 @@ experiments (~30–45 min on a T4) and displays the results and figures at the e
 **Option 2 — locally:**
 
 ```bash
-git clone https://github.com/mo7morad/tweet-emotion-classification.git](https://github.com/mo7morad/UII-NLP-Tweet-Emotion-Classification-Fine-tuning-DistilBERT-vs-BERT.git
+git clone https://github.com/mo7morad/UII-NLP-Tweet-Emotion-Classification-Fine-tuning-DistilBERT-vs-BERT.git
 cd UII-NLP-Tweet-Emotion-Classification-Fine-tuning-DistilBERT-vs-BERT
 bash run_experiments.sh
 ```
