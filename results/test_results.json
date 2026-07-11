@@ -1,0 +1,26 @@
+{
+  "distilbert": {
+    "config": {
+      "lr": 5e-05,
+      "batch": 16,
+      "epochs": 4,
+      "use_weights": false,
+      "best_epoch": 2
+    },
+    "test_accuracy": 0.923,
+    "test_macro_f1": 0.87557060833522,
+    "test_weighted_f1": 0.922507532125344
+  },
+  "bert": {
+    "config": {
+      "lr": 2e-05,
+      "batch": 16,
+      "epochs": 4,
+      "use_weights": false,
+      "best_epoch": 4
+    },
+    "test_accuracy": 0.9245,
+    "test_macro_f1": 0.8803867710860885,
+    "test_weighted_f1": 0.9236262519824217
+  }
+}

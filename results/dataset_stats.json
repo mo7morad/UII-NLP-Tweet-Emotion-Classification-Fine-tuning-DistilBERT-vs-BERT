@@ -1,0 +1,40 @@
+{
+  "sizes": {
+    "train": 8000,
+    "validation": 2000,
+    "test": 2000
+  },
+  "class_counts": {
+    "train": {
+      "sadness": 2333,
+      "joy": 2681,
+      "love": 652,
+      "anger": 1080,
+      "fear": 968,
+      "surprise": 286
+    },
+    "validation": {
+      "sadness": 550,
+      "joy": 704,
+      "love": 178,
+      "anger": 275,
+      "fear": 212,
+      "surprise": 81
+    },
+    "test": {
+      "sadness": 581,
+      "joy": 695,
+      "love": 159,
+      "anger": 275,
+      "fear": 224,
+      "surprise": 66
+    }
+  },
+  "token_length": {
+    "mean": 22.164375,
+    "p95": 45.0,
+    "p99": 58.0,
+    "max": 87
+  },
+  "max_len_used": 64
+}
